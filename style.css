@@ -1,0 +1,67 @@
+* {
+    margin: 0%;
+}
+body {
+    background-color: rgb(40, 40, 40);
+}
+button {
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bolder;
+    box-shadow: 0px 0px 10px black;
+
+}
+button:hover {
+    margin-top: 15px;
+    width: 320px;
+    height: 55px;
+}
+.superior {
+    text-align: center;
+    background-image: url(/Loja/img/fundo_superior.jpg);
+    top: 0%;
+    width: 100%;
+    height: 170px;
+}
+.logo {
+    margin-top: 15px;
+    width: 250px;
+    height: 125px;
+    border-radius: 50%;
+    background-color: rgb(5, 5, 5);
+}
+.hrdefuncionamento {
+    color: white;
+    background-color: rgb(5, 5, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.cardapio {
+    text-align: center;
+}
+.bntcarrinho {
+    color: white;
+    border: #ff914d solid 3px;
+    background: none;
+}
+h1 {
+    color: #ff914d;
+    margin-top: 20px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.p1 {
+    color: white;
+}
+.rodape {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(5, 5, 5);
+    margin-top: 53px;
+}
